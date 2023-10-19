@@ -1,6 +1,6 @@
 
-from .main import Ui_MainWindow
-from .main_dialog import MainDialog
+from widgets.main import Ui_MainWindow
+from widgets.main_dialog import MainDialog
 
 from PyQt5 import QtCore, QtWidgets
 
